@@ -23,3 +23,6 @@ The main jobs that it should do are as follows -
      * Add data validation. e.g. check if exists, or does not exist, etc.
      * Think about where you are adding the code to perform certain actions.
   
+Feedbacks are highly appreciated. If you can help me improve the code or do find any bugs, then do let me know.
+
+Thank You !
